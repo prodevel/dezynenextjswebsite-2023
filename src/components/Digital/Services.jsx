@@ -8,9 +8,9 @@ const Services = () => {
         <div className="row">
           <div className="col offset-lg-1">
             <div className="section-head mb-60">
-              <h6 className="color-main text-uppercase wow fadeInUp">our services</h6>
+              <h5 className="color-main text-uppercase wow fadeInUp"></h5>
               <h2 className="wow fadeInUp">
-                Perfect IT Solutions <span className="fw-normal">For Your Business</span>
+              We provide Exclusive Services <span className="fw-normal">For Your Business</span>
               </h2>
             </div>
           </div>

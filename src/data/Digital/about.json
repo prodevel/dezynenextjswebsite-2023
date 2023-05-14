@@ -8,16 +8,19 @@
   ],
   "numbers": [
     {
-      "number": 20,
-      "info": "Years of Experience",
+      "number": 112,
+      "info": "Projects completed",
       "operator": {
         "icon": "fas fa-plus"
       }
     },
     {
-      "number": 15,
-      "info": "Projects completed",
-      "operator": "K"
+      "number": 35,
+      "info": "Happy Clients",
+      "operator":{
+        "icon":""
+        
+      }
     },
     {
       "number": 240,

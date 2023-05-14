@@ -11,11 +11,11 @@ const ChooseUs = () => {
               <div className="section-head mb-60">
                 <h6 className="color-main text-uppercase wow fadeInUp">Why choose us</h6>
                 <h2 className="wow fadeInUp">
-                  Boost Your Business <span className="fw-normal">With New Tech</span>
+                Our Perspective  <span className="fw-normal">On Enterprise Applications</span>
                 </h2>
               </div>
               <div className="text">
-                Our team can assist you in transforming your business through latest tech capabilities to stay ahead of the curve.
+              With the advances in AI and commericial availability of good quality code generators; low-code or no-code is going to the industry norm. We at Dezyne, help our partners adopt the same for accelerated application development saving dollars and time.
               </div>
               <ul>
                 {
@@ -42,8 +42,8 @@ const ChooseUs = () => {
         </div>
       </div>
       <img src="/assets/img/choose_us/choose_lines.svg" alt="" className="choose-us-img" />
-      <img src="/assets/img/choose_us/choose_brands.png" alt="" className="choose-us-brands" />
-      <img src="/assets/img/choose_us/choose_bubbles.png" alt="" className="choose-us-bubbles" />
+      <img src="/assets/img/choose_us/choose us img1.png" alt="" className="choose-us-brands" />
+      <img src="" alt="" className="choose-us-bubbles" />
     </section>
   )
 }

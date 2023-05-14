@@ -70,7 +70,7 @@ TABLE OF CONTENTS:-
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
-  --color-main:#0066ff;
+  --color-main:#06c4cc;
   --color-primary:#0066ff;
   --color-secondary:#02b5ff;
   --color-blue2: #4a00e1;
@@ -355,7 +355,7 @@ body {
 .home-style-7 {
   color: #000; }
   .home-style-7 a:hover {
-    color: var(--color-blue7); }
+    color: #501e9c; }
   .home-style-7 #preloader:after,
   .home-style-7 #preloader:before {
     background: -webkit-gradient(linear, right top, left top, from(#501e9c), color-stop(30%, #8169f1), color-stop(30%, #8169f1), color-stop(73%, #a44cee), to(#ff847f));
@@ -630,8 +630,8 @@ small.text {
   pointer-events: none; }
 
 .pace .pace-progress {
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 10, 0);
+  transform: translate3d(0, 10, 0);
   max-width: 300px;
   position: fixed;
   z-index: 99999999999999;
@@ -641,7 +641,7 @@ small.text {
   right: 100%;
   height: 100%;
   width: 100%;
-  background: #fff; }
+  background: #ba3e3e; }
 
 .pace.pace-inactive {
   width: 100vw;
@@ -703,7 +703,7 @@ small.text {
   -ms-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   font-weight: 300;
-  font-size: 13px;
+  font-size: 113px;
   text-transform: uppercase;
   letter-spacing: 10px;
   z-index: 9999999999; }
@@ -1429,13 +1429,14 @@ small.text {
     background: -webkit-gradient(linear, left top, right top, color-stop(10%, #0c3df4), color-stop(45%, #02b5ff), color-stop(#02b5ff), to(#0c3df4));
     background: -webkit-linear-gradient(left, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
     background: -o-linear-gradient(left, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
-    background: linear-gradient(to right, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
+    background: #4da9bf;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease; }
   .butn.butn-gard:hover::before,
   .btn.butn-gard:hover::before {
-    left: -50%; }
+    left: -50%;
+  background: #2b5e6a; }
   .butn.dark-butn,
   .btn.dark-butn {
     background: #000; }
@@ -1446,7 +1447,7 @@ small.text {
       color: #fff; }
   .butn.butn-blue6,
   .btn.butn-blue6 {
-    background: var(--color-blue6); }
+    background: #1c363d; }
     .butn.butn-blue6 span,
     .butn.butn-blue6 small,
     .btn.butn-blue6 span,
@@ -1814,7 +1815,7 @@ small.text {
 
 /* --------------- top navbar styles --------------- */
 .top-navbar.style-1 {
-  background: var(--color-main-grad);
+  background: #06c4cc;
   position: relative;
   z-index: 9999; }
   .top-navbar.style-1 .top-links .text {
@@ -1822,7 +1823,7 @@ small.text {
     .top-navbar.style-1 .top-links .text strong {
       margin: 0 10px; }
     .top-navbar.style-1 .top-links .text .fa-bullhorn {
-      background-color: #002ec1;
+      background-color:#06c4cc;
       padding: 15px; }
   .top-navbar.style-1 .r-side {
     display: -webkit-box;
@@ -1873,7 +1874,7 @@ small.text {
 /* --------------- top navbar style 9 --------------- */
 .top-navbar.style-9 {
   color: #fff;
-  background-color: #172b86;
+  background-color:#06c4cc;
   padding: 10px 0;
   position: relative; }
 
@@ -2140,7 +2141,7 @@ small.text {
     margin: 0 7px;
     text-transform: capitalize; }
     .navbar.style-1 .navbar-nav .nav-item .nav-link.active {
-      color: var(--color-main); }
+      color: #d4ebf2; }
   .navbar.style-1 .nav-side {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2169,7 +2170,7 @@ small.text {
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        background: var(--color-main-grad);
+        background: #34bbcc;
         color: #fff;
         font-size: 13px;
         -ms-flex-negative: 0;

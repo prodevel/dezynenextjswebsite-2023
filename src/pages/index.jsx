@@ -25,7 +25,7 @@ const HomeDigitalAgency = () => {
   return (
     <>
       <Head>
-        <title>Iteck - Digital Agency</title>
+        <title>Dezyne Technologies-Designing Next</title>
       </Head>
 
       <MainLayout scrollTopText>

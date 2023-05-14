@@ -34,18 +34,19 @@ const About = () => {
             <div className="row justify-content-between">
               <div className="col-lg-5">
                 <div className="title">
-                  <h3 className=" wow fadeInUp slow">“Technology is best when it brings people  together.”</h3>
-                  <small className="wow fadeInUp slow fw-bold">Patricia Cross</small>
+                  <h3 className=" wow fadeInUp slow">Accelerating your
+Enterprise Application Development</h3>
+                  <small className="wow fadeInUp slow fw-bold"></small>
                 </div>
               </div>
               <div className="col-lg-6">
                 <div className="info">
                   <h6 className=" wow fadeInUp slow">
-                    We can help to maintain and modernize your IT infrastructure  & solve various infrastructure-specific issues a business may face.
+                  Established in 2013, Dezyne Technologies is an IT Services and Consultancy company
                   </h6>
-                  <p className=" wow fadeInUp slow">
-                    Iteck Co is the partner of choice for many of the world’s leading  enterprises, SMEs and technology challengers. We help businesses  elevate their value through custom software development, product  design, QA and consultancy services.
-                  </p>
+                  <h6 className=" wow fadeInUp slow">
+                  With over 50+ years of collective experience in the team (Worked with Global organizations like STMicroelectronics Pvt Ltd, Synopsis Pvt Ltd, Conexant Systems, Cadence Design Systems Pvt Ltd and, NEC Technologies to name a few). We specialize into providing elegant and intuitive solution in the areas of Mobile Application Development, Web Application Development, Cloud Solutions, IoT Solutions, Embedded System Design and Data Analytics.
+                  </h6>
                   <Link href="/page-about-5">
                     <a className="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                       <span>more about us</span>

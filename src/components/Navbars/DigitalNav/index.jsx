@@ -30,7 +30,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light style-1" ref={navbarRef}>
       <div className="container">
         <a className="navbar-brand" href="#">
-          <img src="/assets/img/logo_cd.png" alt="" />
+          <img src="/assets/img/dazzl.png" alt="logo" />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -39,23 +39,11 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-            <li className="nav-item dropdown" onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
-              <a className="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Homes
+            <li className="nav-item" >
+              <a className="nav-link">
+                Home
               </a>
-              <ul className="dropdown-menu" aria-labelledby="navbarDropdown1">
-                <li><Link href="/"><a className="dropdown-item"> Landing Preview </a></Link></li>
-                <li><Link href="/home-it-solutions2"><a className="dropdown-item"> Creative It Solutions </a></Link></li>
-                <li><Link href="/home-data-analysis"><a className="dropdown-item"> Data Analysis </a></Link></li>
-                <li><Link href="/home-app-landing"><a className="dropdown-item"> App Landing </a></Link></li>
-                <li><Link href="/home-saas-technology"><a className="dropdown-item"> Saas Technology </a></Link></li>
-                <li><Link href="/home-marketing-startup"><a className="dropdown-item"> Marketing Startup </a></Link></li>
-                <li><Link href="/home-it-solutions"><a className="dropdown-item"> It Solution </a></Link></li>
-                <li><Link href="/home-software-company"><a className="dropdown-item"> Software Company </a></Link></li>
-                <li><Link href="/home-digital-agency"><a className="dropdown-item"> Digital Agency </a></Link></li>
-                <li><Link href="/home-modren-shop"><a className="dropdown-item"> Modren Shop </a></Link></li>
-              </ul>
-            </li>
+             </li>
             <li className="nav-item dropdown" onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
               <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 pages
@@ -78,7 +66,7 @@ const Navbar = () => {
             <li className="nav-item">
               <Link href="/page-blog-5">
                 <a className="nav-link">
-                blog
+                blogs
                 </a>
               </Link>
             </li>
@@ -96,18 +84,13 @@ const Navbar = () => {
                 <i className="bi bi-telephone"></i>
               </div>
               <div className="cont">
-                <small className="text-muted m-0">hotline 24/7</small>
-                <h6>(+23) 5535 68 68</h6>
+                
+                <h6>+91-9810869242</h6>
               </div>
             </div>
             <div className="qoute-nav ps-4">
-              <a href="#" className="search-icon me-3">
-                <i className="bi bi-search"></i>
-              </a>
-              <a href="#" className="cart-icon me-3">
-                <i className="bi bi-cart"></i>
-                <span className="cart-num ms-1">2</span>
-              </a>
+              
+             
               <Link href="/page-contact-5">
                 <a className="btn sm-butn butn-gard border-0 text-white">
                   <span>Free Quote</span>
