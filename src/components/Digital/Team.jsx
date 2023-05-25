@@ -22,18 +22,11 @@ const Team = () => {
                   <h6><a href="#">{ member.name }</a></h6>
                   <small>{ member.position }</small>
                   <div className="social_icons">
-                    <a href="#">
-                      <i className="fab fa-twitter"></i>
-                    </a>
-                    <a href="#">
-                      <i className="fab fa-facebook-f"></i>
-                    </a>
+                   
                     <a href="#">
                       <i className="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="#">
-                      <i className="fab fa-github"></i>
-                    </a>
+                   
                   </div>
                 </div>
               </div>
@@ -41,11 +34,7 @@ const Team = () => {
           }
         </div>
         <div className="bttns mt-4 text-center">
-          <Link href="/page-about-5">
-            <a className="btn btn-dark wow zoomIn me-2">
-              <span>See All Team</span>
-            </a>
-          </Link>
+          
           <Link href="/page-contact-5">
             <a className="btn butn-gard border-0 text-white wow zoomIn">
               <span>Join Our Team</span>

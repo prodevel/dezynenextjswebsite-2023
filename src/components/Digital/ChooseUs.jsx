@@ -42,7 +42,7 @@ const ChooseUs = () => {
         </div>
       </div>
       <img src="/assets/img/choose_us/choose_lines.svg" alt="" className="choose-us-img" />
-      <img src="/assets/img/choose_us/choose us img1.png" alt="" className="choose-us-brands" />
+      <img src="/assets/img/Untitled design (3).png" alt="" className="choose-us-brands" />
       <img src="" alt="" className="choose-us-bubbles" />
     </section>
   )

@@ -7,7 +7,7 @@
     "tags": ["Cloud Storerage", "Hosting & VPS"]
   },
   {
-    "title": "DevOps & Platforms",
+    "title": "DevOps & ML Ops",
     "number": "04",
     "icon": "/assets/img/icons/serv_icons/devops.png",
     "text": "We help you with our expertise in DevOps and platform engineering while you focus on the product development",
@@ -19,29 +19,6 @@
     "icon": "/assets/img/icons/serv_icons/cloud.png",
     "text": "We help you in migrating your workloads to cloud while optimising both performance and cost for scale",
     "tags": ["Ecommerce", "Landing Page", "CMS", "Plugin"]
-  },
-  {
-    "title": "Enterprise Low-code",
-    "number": "01",
-    "icon": "/assets/img/icons/serv_icons/lowcode.png",
-    "text": "We help you adopt low-code strategy for “Accelerating Application Development” for your organisational needs",
-    "tags": ["Strategy", "Consultation", "Management"]
-  },
-  {
-    "title": "Modern Data Stack",
-    "number": "02",
-    "icon": "/assets/img/icons/serv_icons/server.png",
-    "text": "We help you upgrade your data-stack to create/harness Analytics Powerhouse and win over competition",
-    "tags": ["Management", "Backup & Recovery", "Transfer"]
-  },
-  
-
- 
-  {
-    "title": "Product Teams",
-    "number": "06",
-    "icon": "/assets/img/icons/serv_icons/teams.png",
-    "text": "We help you by creating customised team offering which can be ramped up/down as per the product roadmap.",
-    "tags": ["Unity 2D/3D", "VR/AR", "iOS & Android", "HTC Vive"]
   }
+  
 ]

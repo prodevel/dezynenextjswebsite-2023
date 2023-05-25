@@ -9,10 +9,10 @@ const Footer = () => {
             <div className="col-lg-4">
               <div className="foot_info">
                 <a href="#" className="logo mb-3">
-                  <img src="/assets/img/logo_cl.png" alt="" />
+                  <img src="/assets/img/dezyne footer.png" alt="footerlogo" />
                 </a>
                 <div className="text mb-4">
-                  Best IT Solutions & Technology WordPress <br /> Theme for Your Busines
+                Dezyne Technologies is a young IT services design house formed in 2013, providing services in the area of enterprise application development, mobile application development,custom software solutions for document/workflow management. <br /> 
                 </div>
                 <ul className="mb-4">
                   <li className="d-flex">
@@ -35,18 +35,14 @@ const Footer = () => {
                   </li>
                 </ul>
                 <div className="social_icons">
-                  <a href="#">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href="#">
+                
+                  <a href="https://www.facebook.com/DezyneTechnologies" target='_blank'>
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/company/dezyne-technologies-pvt-ltd/" target='_blank'>
                     <i className="fab fa-linkedin-in"></i>
                   </a>
-                  <a href="#">
-                    <i className="fab fa-github"></i>
-                  </a>
+                  
                 </div>
               </div>
             </div>
@@ -109,7 +105,8 @@ const Footer = () => {
           <div className="col-lg-12">
             <div className="foot">
               <p>
-                © 2022 Copyrights by <a href="#" className="text-white text-decoration-underline">Iteck Co.</a> All Rights Reserved by <a href="#" className="text-white text-decoration-underline"> ThemesCamp </a>
+                © 2023 Copyrights by <a href="#" className="text-white text-decoration-underline">Dezyne Technologies</a> All Rights Reserved 
+    
               </p>
             </div>
           </div>
